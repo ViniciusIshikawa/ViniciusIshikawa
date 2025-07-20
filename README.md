@@ -1,4 +1,4 @@
-## Olá, eu sou o Vinícius Yukio Ishikawa, Analista de Sistemas Júnior e estudante da USF!
+## Hello, I'm Vinícius Yukio Ishikawa, Junior Systems Analyst and student at USF!
 <div align="center">
   <a href="https://github.com/ViniciusIshikawa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusIshikawa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
